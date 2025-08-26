@@ -5,6 +5,7 @@
 /.project
 /.settings
 /.vscode/
+*.kdev4
 /autom4te.cache/
 /build/
 /build_*/
